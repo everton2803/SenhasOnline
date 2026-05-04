@@ -38,7 +38,7 @@ A infraestrutura do projeto é totalmente containerizada e orquestrada via **Doc
 ### ▶️ Como subir a infraestrutura
 ```bash
 docker compose up --build -d
-
+```
 ### 🌐 Acessos
 
 Frontend: http://localhost:8080
